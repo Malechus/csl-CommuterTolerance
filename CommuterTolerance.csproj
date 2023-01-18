@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="UnityEngine" Version="1.0.0"/>
+    <Reference Include="ICities">
+      <HintPath>/home/malechus/.local/share/Steam/steamapps/common/Cities_Skylines/Cities_Data/Managed/ICities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
