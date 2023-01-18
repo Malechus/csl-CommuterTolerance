@@ -1,0 +1,1 @@
+This is a simple mod for the Paradox Interactive/Colossal Order game Cities:Skylines.
